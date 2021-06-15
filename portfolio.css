@@ -150,7 +150,7 @@ a:link{
 @media screen and (max-width: 899px) {
 
     h1 {
-        font-size: 2.7em;
+        font-size: 2.5em;
      }
 
 
@@ -159,7 +159,7 @@ a:link{
      }
 
     .t_article {
-        font-size: 1.5em;
+        font-size: 1.3em;
      }
 
      .s_article {
@@ -173,7 +173,7 @@ a:link{
 @media screen and (max-width: 699px) {
 
     h1 {
-        font-size: 2em;
+        font-size: 2.3em;
      }
 
 
@@ -182,7 +182,7 @@ a:link{
      }
 
     .t_article {
-        font-size: .95em;
+        font-size: 1em;
      }
 
      .s_article {
