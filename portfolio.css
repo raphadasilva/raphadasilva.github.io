@@ -196,16 +196,16 @@ a:link{
 @media screen and (max-width: 499px) {
  
     h1 {
-        font-size: 2em;
+        font-size: 1.5em;
      }
 
 
     h3 {
-        font-size: 1em;
+        font-size: .9em;
      }
 
     .t_article {
-        font-size: .92em;
+        font-size: .75em;
      }
 
      .s_article {
