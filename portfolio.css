@@ -1,0 +1,215 @@
+body {
+	font-family: 'Arial';
+}
+
+h1 {
+
+	width: 100%;
+	text-align: center;
+	position: relative;
+	background-color:#00a25b;
+	border-radius: 5px;
+	color:#fff;
+	padding-top: 1%;
+	padding-bottom: 1%;
+	font-weight: normal;
+	pointer-events: none;
+
+}
+
+h3 {
+
+	width: 100%;
+	text-align: center;
+	position: relative;
+	font-weight: normal;
+	pointer-events: none;
+}
+
+a:link{
+  text-decoration: none!important;
+}
+
+#caroussel {
+
+	widht:100%;
+
+}
+
+.article {
+
+	width:100%;
+	position:relative;
+	margin-top: 3%;
+	text-decoration: none;
+
+}
+
+.t_article {
+	margin-left: 4%;
+	background-color:#00a25b;
+	border-radius: 5px;
+	width: 90.5%;
+	padding-top: .9%;
+	padding-left: .5%;
+	padding-bottom: .9%;
+	color: #fff;
+	pointer-events: none;
+
+}
+
+.article img {
+	
+	margin-left: 5%;
+	opacity: .6;
+	transition: 0.3s;
+	width: 90%;
+}
+
+.article img:hover {
+	opacity:1;
+}
+
+
+.s_article {
+	margin-left: 4%;
+	color:#000;
+	padding-left: .5%;
+	pointer-events: none;
+}
+
+
+@media screen and (max-width: 2099px) {
+
+    h1 {
+        font-size: 4.6em;
+     }
+
+
+    h3 {
+        font-size: 3.3em;
+     }
+
+    .t_article {
+        font-size: 2.8em;
+     }
+
+     .s_article {
+        font-size: 1.1em;
+     }
+
+}
+
+
+
+@media screen and (max-width: 1299px) {
+
+    h1 {
+        font-size: 4.1em;
+     }
+
+
+    h3 {
+        font-size: 3em;
+     }
+
+    .t_article {
+        font-size: 2.5em;
+     }
+
+     .s_article {
+        font-size: 1.2em;
+     }
+
+}
+
+
+
+@media screen and (max-width: 1099px) {
+
+    h1 {
+        font-size: 3.7em;
+     }
+
+
+    h3 {
+        font-size: 2.5em;
+     }
+
+    .t_article {
+        font-size: 1.9em;
+     }
+
+     .s_article {
+        font-size: 1.2em;
+     }
+
+}
+
+
+@media screen and (max-width: 899px) {
+
+    h1 {
+        font-size: 2.7em;
+     }
+
+
+    h3 {
+        font-size: 1.9em;
+     }
+
+    .t_article {
+        font-size: 1.5em;
+     }
+
+     .s_article {
+        font-size: .92em;
+     }
+
+}
+
+
+
+@media screen and (max-width: 699px) {
+
+    h1 {
+        font-size: 2.3em;
+     }
+
+
+    h3 {
+        font-size: 1.5em;
+     }
+
+    .t_article {
+        font-size: 1em;
+     }
+
+     .s_article {
+        font-size: .82em;
+     }
+
+
+}
+
+
+@media screen and (max-width: 499px) {
+ 
+    h1 {
+        font-size: 2em;
+     }
+
+
+    h3 {
+        font-size: 1em;
+     }
+
+    .t_article {
+        font-size: .92em;
+     }
+
+     .s_article {
+        font-size: .72em;
+     }
+
+}
