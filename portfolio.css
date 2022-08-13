@@ -61,13 +61,13 @@ a:link{
 .article img {
 	
 	margin-left: 5%;
-	opacity: .6;
+	opacity: 1;
 	transition: 0.3s;
 	width: 90%;
 }
 
 .article img:hover {
-	opacity:1;
+	opacity:.6;
 }
 
 
